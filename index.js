@@ -14,4 +14,4 @@ right.addEventListener("mouseenter" , function (){
 
 right.addEventListener("mouseleave" , function leave(){
   container.classList.remove("hover-right")
-})
+})   
